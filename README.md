@@ -82,7 +82,7 @@ In order to run Elixir applications, you must first have Elixir and the Erlang V
 
 ## Installation
 
-The program can be built and installed using the respective setup file for your operating system. 
+The program can be built and installed using the respective setup file for your operating system.   
 **Important: You ONLY need the install script. No need to clone the repository 
   since the script will handle that.**
 
